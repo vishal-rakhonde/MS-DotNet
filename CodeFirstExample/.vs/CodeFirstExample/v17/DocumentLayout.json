@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\models\\jkjune2024codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:models\\jkjune2024codefirstcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|d:\\trainings\\jkjune2024\\websites\\codefirstexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85DF0750-B5AD-4466-B7C9-26B33C812ABC}|CodeFirstExample.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "Controllers\\DepartmentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:48:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:15:19.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-08T06:14:22.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JKJune2024CodeFirstContext.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\JKJune2024CodeFirstContext.cs",
+              "RelativeDocumentMoniker": "Models\\JKJune2024CodeFirstContext.cs",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\JKJune2024CodeFirstContext.cs",
+              "RelativeToolTip": "Models\\JKJune2024CodeFirstContext.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBAwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:09:00.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA2wAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:07:34.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\Trainings\\JKJune2024\\Websites\\CodeFirstExample\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAzwBEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:07:22.546Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
