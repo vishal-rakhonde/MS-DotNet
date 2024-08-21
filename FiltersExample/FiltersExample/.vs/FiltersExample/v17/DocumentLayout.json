@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\resourcefiltersexample\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|solutionrelative:resourcefiltersexample\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\resourcefiltersexample\\filters\\cacheresourceattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|solutionrelative:resourcefiltersexample\\filters\\cacheresourceattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\resourcefiltersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|solutionrelative:resourcefiltersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\resourcefiltersexample\\filters\\cacheresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7801D23B-C121-461E-B24C-28EA2355A118}|ResourceFiltersExample\\ResourceFiltersExample.csproj|solutionrelative:resourcefiltersexample\\filters\\cacheresourcefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\exceptionfiltersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|solutionrelative:exceptionfiltersexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\exceptionfiltersexample\\filters\\customexceptionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|solutionrelative:exceptionfiltersexample\\filters\\customexceptionattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\exceptionfiltersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|solutionrelative:exceptionfiltersexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\filtersexample\\filtersexample\\exceptionfiltersexample\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9FB7EE-FCB1-4582-B8B9-03C3116235CF}|ExceptionFiltersExample\\ExceptionFiltersExample.csproj|solutionrelative:exceptionfiltersexample\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "ResourceFiltersExample\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "ResourceFiltersExample\\Controllers\\DefaultController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:31:07.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheResourceAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Filters\\CacheResourceAttribute.cs",
+              "RelativeDocumentMoniker": "ResourceFiltersExample\\Filters\\CacheResourceAttribute.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Filters\\CacheResourceAttribute.cs",
+              "RelativeToolTip": "ResourceFiltersExample\\Filters\\CacheResourceAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:30:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Program.cs",
+              "RelativeDocumentMoniker": "ResourceFiltersExample\\Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Program.cs",
+              "RelativeToolTip": "ResourceFiltersExample\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:30:45.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheResourceFilter.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Filters\\CacheResourceFilter.cs",
+              "RelativeDocumentMoniker": "ResourceFiltersExample\\Filters\\CacheResourceFilter.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ResourceFiltersExample\\Filters\\CacheResourceFilter.cs",
+              "RelativeToolTip": "ResourceFiltersExample\\Filters\\CacheResourceFilter.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:30:17.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Filters\\CustomExceptionAttribute.cs",
+              "RelativeDocumentMoniker": "ExceptionFiltersExample\\Filters\\CustomExceptionAttribute.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Filters\\CustomExceptionAttribute.cs",
+              "RelativeToolTip": "ExceptionFiltersExample\\Filters\\CustomExceptionAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:23:01.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "ExceptionFiltersExample\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "ExceptionFiltersExample\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAIwB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:09:38.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExceptionFiltersExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExceptionFiltersExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:06:17.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionFiltersExample\\Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\FiltersExample\\FiltersExample\\ExceptionFiltersExample\\Program.cs",
+              "RelativeToolTip": "ExceptionFiltersExample\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAIwAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:05:29.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
