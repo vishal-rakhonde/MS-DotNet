@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\views\\localization\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:views\\localization\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\views\\localization\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:views\\localization\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\controllers\\localizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:controllers\\localizationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\resources\\controllers\\localizationcontroller.mr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:resources\\controllers\\localizationcontroller.mr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\resources\\controllers\\localizationcontroller.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:resources\\controllers\\localizationcontroller.fr.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\resources\\controllers\\localizationcontroller.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:resources\\controllers\\localizationcontroller.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|c:\\users\\vikra\\desktop\\ycpjune2024\\mvc\\localizationexample\\localizationexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9111F-9B2E-4C3E-9811-A1FE93BC6DC4}|LocalizationExample.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA3wBAAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:39:33.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalizationController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Controllers\\LocalizationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LocalizationController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Controllers\\LocalizationController.cs",
+              "RelativeToolTip": "Controllers\\LocalizationController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAUwBoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:39:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LocalizationController.fr.resx",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.fr.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\LocalizationController.fr.resx",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.fr.resx",
+              "RelativeToolTip": "Resources\\Controllers\\LocalizationController.fr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-09T06:39:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LocalizationController.mr.resx",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.mr.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\LocalizationController.mr.resx",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.mr.resx",
+              "RelativeToolTip": "Resources\\Controllers\\LocalizationController.mr.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-09T06:39:33.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Localization\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Localization\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Localization\\Index.cshtml",
+              "RelativeToolTip": "Views\\Localization\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:39:33.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Localization\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\Localization\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Localization\\Index2.cshtml",
+              "RelativeToolTip": "Views\\Localization\\Index2.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:39:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LocalizationController.en.resx",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.en.resx",
+              "RelativeDocumentMoniker": "Resources\\Controllers\\LocalizationController.en.resx",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Resources\\Controllers\\LocalizationController.en.resx",
+              "RelativeToolTip": "Resources\\Controllers\\LocalizationController.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-07-09T06:39:33.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvwgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T06:39:33.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vikra\\Desktop\\YCPJune2024\\mvc\\LocalizationExample\\LocalizationExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T06:39:33.139Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
