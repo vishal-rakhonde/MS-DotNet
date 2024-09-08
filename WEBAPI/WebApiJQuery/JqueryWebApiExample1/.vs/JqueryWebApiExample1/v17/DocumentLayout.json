@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:wwwroot\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\jquerywebapiexample1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:jquerywebapiexample1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|d:\\files\\oldfiles\\webapi\\webapijquery\\jquerywebapiexample1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F0B9F793-3A6C-479A-85AF-717C407FC7AF}|JqueryWebApiExample1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T06:50:20.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA/wB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:50:20.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAcwEEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:50:20.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAABAwBYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:50:20.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "htmlpage.html",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\wwwroot\\htmlpage.html",
+              "RelativeDocumentMoniker": "wwwroot\\htmlpage.html",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\wwwroot\\htmlpage.html",
+              "RelativeToolTip": "wwwroot\\htmlpage.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-01T06:50:20.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JqueryWebApiExample1.csproj",
+              "DocumentMoniker": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\JqueryWebApiExample1.csproj",
+              "RelativeDocumentMoniker": "JqueryWebApiExample1.csproj",
+              "ToolTip": "D:\\Files\\OldFiles\\WEBAPI\\WebApiJQuery\\JqueryWebApiExample1\\JqueryWebApiExample1.csproj",
+              "RelativeToolTip": "JqueryWebApiExample1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-01T06:50:20.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
