@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vikra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vikra\\.nuget\\packages"
+    ]
+  }
+}
